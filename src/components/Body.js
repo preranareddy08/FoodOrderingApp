@@ -19,8 +19,8 @@ import Shimmer from "./Shimmer";
    const json=await data.json();
 
 
-   SetListOfRestaurants(json?.data?.cards[1]?.card?.gridElements?.infoWithStyle?.restaurants);
-   setFilteredRestaurant(json?.data?.cards[1]?.card?.gridElements?.infoWithStyle?.restaurants);
+   SetListOfRestaurants(json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
+   setFilteredRestaurant(json?.data?.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
 
   };
 
