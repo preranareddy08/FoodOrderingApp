@@ -5,4 +5,4 @@ React App.
 food items.
 – Key aspects of this app include React development techniques, efficient API integration, and meticulous state
 management with hooks.
-Technologies used : React Js, Tailwind CSS, REST API Calls
+Technologies used : React Js, Tailwind CSS, REST API Calls.
